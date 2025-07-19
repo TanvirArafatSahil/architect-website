@@ -98,6 +98,7 @@ main > section{
 }
 .banner-image{
     width: 100%;
+    padding-bottom: 45px;
 }
 
 /* Feature section  */
@@ -159,13 +160,17 @@ main > section{
     margin-top: -123px;
 }
 
-#experience-year{
+#Experience-year{
     font-size: 4rem;
     font-weight: 700;
 }
 
 .featured-architect img{
     width: 100%;
+}
+
+.for-size{
+    max-width: 586px;
 }
 
 /* some fact related styles */
